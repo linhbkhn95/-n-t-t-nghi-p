@@ -1,0 +1,48 @@
+.header-eventlog{
+	 height: 72px;
+    background-color: white;
+}
+.badge{
+  font-size: 8px;
+}
+.col-md-10 .col-md-2 .list-group-item{
+	font-size: 9px;
+	 padding: 6px 15px;
+}
+.number-result{
+	margin-top: 20px;
+    font-size: 16px;
+}
+.page-size{
+	font-size: 11px;
+    padding: 0px 12px;
+    height: 28px;
+    margin-top: 20px;
+}
+.custom-alert{
+    padding: 0px;
+    margin-bottom: 2px;
+    background-color: white;
+    color: black;
+}
+.list-group-item .badge{
+	background-color: #0f7dbd;
+}
+.h6, h6 {
+      font-size: 9px;
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    margin-right: 2px;
+}
+.data-view{
+	
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.data-recevice p {
+ 
+    margin-top: 0px;
+    font-size: 9px;
+    margin-bottom: 0px;
+}
