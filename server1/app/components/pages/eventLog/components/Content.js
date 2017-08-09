@@ -127,7 +127,7 @@ export default class Content extends Component {
 	render() {
 		return (
 			<div>
-			     <button onClick={this.test.bind(this)}  className="btn btn-primary" >Recevice log</button>
+			     <button onClick={this.rv.bind(this)}  className="btn btn-primary btn-rcv-log" >Recevice log</button>
 				 {	this.state.list.map((item,index)=>{
 				 	 return(
 

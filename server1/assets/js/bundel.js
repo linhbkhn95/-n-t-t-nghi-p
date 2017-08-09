@@ -26260,7 +26260,7 @@ var EventLog = function (_React$Component) {
 																																																																						),
 																																																																						_react2.default.createElement(
 																																																																																				'div',
-																																																																																				{ style: { paddingLeft: "0px" }, className: 'col-md-10' },
+																																																																																				{ className: 'col-md-10 list-log' },
 																																																																																				_react2.default.createElement(_Content2.default, null)
 																																																																						)
 																																																								)
@@ -26643,7 +26643,7 @@ var Content = function (_Component) {
 				null,
 				_react2.default.createElement(
 					"button",
-					{ onClick: this.test.bind(this), className: "btn btn-primary" },
+					{ onClick: this.rv.bind(this), className: "btn btn-primary btn-rcv-log" },
 					"Recevice log"
 				),
 				this.state.list.map(function (item, index) {

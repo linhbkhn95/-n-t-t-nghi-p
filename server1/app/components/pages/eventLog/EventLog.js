@@ -55,7 +55,7 @@ class EventLog extends React.Component{
                   		<div className="col-md-2 data-view">
                   		   <Property />
                   		</div>
-                  		<div style={{paddingLeft:"0px"}} className="col-md-10">
+                  		<div  className="col-md-10 list-log">
                   			<Content />
                   		</div>
                   </div>
